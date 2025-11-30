@@ -3,7 +3,7 @@
 
 ------------------------------------------------
 
-Criado com dicas do W3schools!
+Criado com as instruções do W3schools!
 
 
 ------------------------------------------------
